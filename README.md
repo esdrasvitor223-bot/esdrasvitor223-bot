@@ -1,6 +1,11 @@
 # Olá, sou um Full-Stack Developer 👨‍💻
 
-Bem-vindo ao meu perfil! Me chamo Esdras Vitor Ferreira Alves, estou cursando Sistemas da informação junto com Técnico em ADS(análise e desenvolvimento de sistemas). Sou um desenvolvedor em transição de aprendizado, sou incrivelmente apaixonado por criar soluções e desenvolver webs robustas e eficientes, com foco em qualidade de código e experiência do usuário.  Me considero destacado nos quesitos de possuir um ótimo esforço individual com excelente ambição em crescer profissionalmente, ótimo controle emocional, adaptabilidade, ótima proeza, excelente comunicação e vocabulário. 
+Bem-vindo ao meu perfil! Me chamo Esdras Vitor Ferreira Alves, sou estudante de Sistemas de Informação e Técnico em Análise e Desenvolvimento de Sistemas (ADS), movido pela paixão por tecnologia e pela busca constante de evolução no desenvolvimento de software.
+
+Meu objetivo central é consolidar uma carreira sólida como Desenvolvedor Full Stack, unindo uma base teórica robusta à prática do mercado.
+​Destaco-me pela proatividade, facilidade em se manter atualizado constantemente, excelente controle emocional diante de desafios complexos e atencioso aos detalhes. Possuo forte foco no trabalho em equipe, acreditando que a colaboração e a comunicação clara são as chaves para criar ambientes produtivos e entregar softwares de alto valor.
+
+​Atualmente estou em busca de uma oportunidade no mercado de tecnologia para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir ativamente com os resultados e metas da organização. Estou ansioso para conversarmos melhor e chegar a um consenso!
 
 ---
 
